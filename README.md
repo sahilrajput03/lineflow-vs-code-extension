@@ -34,7 +34,13 @@ Step 3: Install publication tool: `npm install -g vsce` and login via: `vsce log
 
 Step 4: Add `"publisher": "SahilRajput"` to `package.json`.
 
-Step 5: Package extension and publish: `vsce package && vsce publish`.
+Step 5: Add repository field (optional) to your `package.json`: `"repository": { "type": "git", "url": "https://github.com/sahilrajput03/lineflow-vs-code-extension.git" }`
+
+Step 6: Package extension and publish: `vsce package && vsce publish`.
+
+**Future Update:**
+
+`vsce publish patch`
 
 ## Project Initialization Commands
 

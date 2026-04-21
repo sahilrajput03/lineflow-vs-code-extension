@@ -4,6 +4,10 @@
   "publisher": "SahilRajput",
   "description": "One line. Full presence.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sahilrajput03/lineflow-vs-code-extension.git"
+  },
   "engines": {
     "vscode": "^1.116.0"
   },
