@@ -2,6 +2,12 @@
 
 VS Code Extension Link: [Click here](https://marketplace.visualstudio.com/items?itemName=SahilRajput.lineflow)
 
+## Usage
+
+Open command pallete (`cmd+shift+p`) and type `lineflow` and choose the item named `Lineflow: Open Lineflow`.
+
+<img src="./screenshots/1.png" width="800px">
+
 ## Inspiration
 
 Purpose: To be able to use Lineflow directly from VS Code (https://sahilrajput.com/line-flow).
