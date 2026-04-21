@@ -15,7 +15,11 @@
     "commands": [
       {
         "command": "lineflow.helloWorld",
-        "title": "Hello World"
+        "title": "Lineflow: Hello World"
+      },
+      {
+        "command": "lineflow.open",
+        "title": "Lineflow: Open Lineflow"
       }
     ]
   },
