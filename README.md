@@ -36,7 +36,9 @@ Step 4: Add `"publisher": "SahilRajput"` to `package.json`.
 
 Step 5: Add repository field (optional) to your `package.json`: `"repository": { "type": "git", "url": "https://github.com/sahilrajput03/lineflow-vs-code-extension.git" }`
 
-Step 6: Package extension and publish: `vsce package && vsce publish`.
+Step 6: Copy the license from https://opensource.org/license/MIT to `LINCENSE` file.
+
+Step 7: Package extension and publish: `vsce package && vsce publish`.
 
 **Future Update:**
 
