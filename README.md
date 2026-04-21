@@ -50,8 +50,7 @@ Step 7: Package extension and publish: `vsce package && vsce publish`. This give
 
 **Future Update:**
 
-- Just bump version: `vsce publish patch`
-- Or you can do: `vsce publish minor` or `vsce publish major`
+- Just bump version: `vsce publish patch` or `vsce publish minor` or `vsce publish major`
 
 ## Project Initialization Commands
 
