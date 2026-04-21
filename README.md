@@ -61,5 +61,6 @@ yo code
 
 ## Inspiration
 
-- Samaksh Grover (Github)
+- Samaksh Grover ([Github](https://github.com/samakshgrover))
 - [ChatGPT](https://chatgpt.com/c/69e7a7f2-5eac-83e8-b3a4-bed18f5cc980)
+    - [Additional ChatGPT](https://chatgpt.com/c/69e7da08-4584-83e8-99c6-3c32828dda7d)
