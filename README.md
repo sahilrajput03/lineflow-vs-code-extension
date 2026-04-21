@@ -46,7 +46,7 @@ Step 5: Add repository field (optional) to your `package.json`: `"repository": {
 
 Step 6: Copy the license from https://opensource.org/license/MIT to `LINCENSE` file.
 
-Step 7: Package extension and publish: `vsce package && vsce publish`. This gives you `Extension URL` and `Hub URL`(link to extension).
+Step 7: Package extension and publish: `vsce package && vsce publish`. This gives you `Extension URL` and `Hub URL`(link to extension). **NOTE: It can take a few minutes before teh URL is active and you do get a email your live (microsoft) email account as soon the extension & extension's webpage is live.**
 
 **Future Update:**
 
