@@ -24,6 +24,18 @@ code --extensionDevelopmentPath=$(pwd)    # ✅ Works [TESTED]
 # Ctrl+Shift+P → "Hello World"
 ```
 
+## Publishing to VS Code Extensions: Initialization Commands
+
+Step 1: 👉 https://marketplace.visualstudio.com/manage and login wtih a Microsoft Account. From here we get our publisher name i.e, `SahilRajput`.
+
+Step 2: Create a PAT (Personal Access Token) 👉 https://dev.azure.com (please check your microsoft account to view your PAT key and other info about it).
+
+Step 3: Install publication tool: `npm install -g vsce` and login via: `vsce login SahilRajput`  (where `SahilRajput` is my publisher name).
+
+Step 4: Add `"publisher": "SahilRajput"` to `package.json`.
+
+Step 5: Package extension and publish: `vsce package && vsce publish`.
+
 ## Project Initialization Commands
 
 ```sh

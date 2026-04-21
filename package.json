@@ -1,6 +1,7 @@
 {
   "name": "lineflow",
   "displayName": "Lineflow",
+  "publisher": "SahilRajput",
   "description": "One line. Full presence.",
   "version": "0.0.1",
   "engines": {
