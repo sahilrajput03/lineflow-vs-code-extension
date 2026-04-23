@@ -53,7 +53,7 @@ function getWebviewContent(): string {
     </head>
     <body>
       <iframe 
-        src="https://sahilrajput.com/line-flow"
+        src="https://sahilrajput.com/lineflow"
         style="width:100%; height:100vh; border:none;">
       </iframe>
     </body>

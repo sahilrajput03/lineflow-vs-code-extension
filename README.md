@@ -10,7 +10,7 @@ Open command pallete (`cmd+shift+p`) and type `lineflow` and choose the item nam
 
 ## Inspiration
 
-Purpose: To be able to use Lineflow directly from VS Code (https://sahilrajput.com/line-flow).
+Purpose: To be able to use Lineflow directly from VS Code (https://sahilrajput.com/lineflow).
 
 - Samaksh Grover ([Github](https://github.com/samakshgrover))
 - [ChatGPT](https://chatgpt.com/c/69e7a7f2-5eac-83e8-b3a4-bed18f5cc980)
